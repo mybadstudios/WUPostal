@@ -29,12 +29,12 @@ If You enjoy my work, please consider buying me a coffee...
 The list of options just keeps on going !<br>
 Mix and match these as you require... you have the full power of WordPress behind you!
 
-#Additional features:
-► You can decide whether or not to make searches affect the server cache
-► Return only the post ID's of your selected query
-► Specify the return order of your search results
-► Write posts of any custom / existing post type
-► Upload images to your WordPress library
+# Additional features:
+
+► You can decide whether or not to make searches affect the server cache<br>
+► Return only the post ID's of your selected query<br>
+► Specify the return order of your search results<br>
+► Write posts of any custom / existing post type<br>
+► Upload images to your WordPress library<br>
 ►  Assign / Update a post's featured image
 
-Full documentation can be downloaded from the website at [https://mybadstudios.com](https://mybadstudios.com)
